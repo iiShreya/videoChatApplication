@@ -6,6 +6,10 @@
 
 [LINK TO THE VIDEO CHAT APPLICATION](https://video-chatapplication.netlify.app/)
 
+```diff
+- Deployed using Heroku and netlify
+```
+
 # Results:
 
 ## 1. 
